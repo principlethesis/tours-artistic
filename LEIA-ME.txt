@@ -1,0 +1,10 @@
+TOURS ARTISTIC 1.4.1 — PROJETO PRONTO PARA BUILD DO APK
+
+1) Entre em mobile e execute npm install.
+2) Para APK local no Windows: BUILD_APK.bat
+3) Para APK em nuvem: BUILD_APK_EAS.bat
+
+O projeto usa Expo SDK 57 + React Native 0.86.2 e pacote Android com.toursartistic.app.
+O perfil EAS preview gera APK instalável.
+
+Observação: este pacote-fonte não contém um APK binário pré-compilado porque a compilação Android precisa de Android SDK/Gradle ou do serviço EAS. Os scripts estão preparados para gerar o APK.

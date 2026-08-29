@@ -1,0 +1,15 @@
+TOURS ARTISTIC 1.4.3 — TEMPLATES DA REFERÊNCIA INTEGRADOS
+
+Esta versão mantém a base APK corrigida 1.4.2 e incorpora os templates visuais da arquitetura enviada:
+- Jornada do fã: onboarding, feed, artistas, agenda, evento, conteúdo, alertas, perfil.
+- Painel do artista: dashboard, publicação, agenda/eventos, assinantes/planos, experiências, perfil, receita e comunidade.
+- Sistema visual reutilizável: cards, estatísticas, pills, abas, CTAs, navegação inferior e hierarquia visual.
+
+BUILD:
+1) Extraia o ZIP.
+2) Entre na pasta mobile.
+3) Execute BUILD_APK_EAS_CORRIGIDO.bat.
+4) O EAS deverá gerar o APK usando o perfil preview.
+
+Versão Android: 1.4.3 / versionCode 143
+Package: com.toursartistic.app
